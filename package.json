@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.7.3",
+    "crypto": "^1.0.1",
+    "ethers": "^5.7.2",
+    "grammy": "^1.28.0",
+    "mongodb": "^6.9.0"
+  }
+}

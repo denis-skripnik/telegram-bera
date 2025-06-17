@@ -1,0 +1,14 @@
+{
+    "rpc": "https://bartio.rpc.berachain.com",
+    "api_key": "BOT_API_KEY",
+    "admin_id": 123456789,
+    "private_key": "WALLET_PKEY",
+    "contracts": {
+        "telegramBera": "0x0B1BB3e9164ca5342E6181D220DC01D6e8D8d2C0",
+        "rewardsContract": "0x047DF514e2395A492D76BD531A2A07E6962A96F2",
+        "honeyContract": "0x0E4aaF1351de4c0264C5c7056Ef3777b41BD8e03"
+    },
+    "db": {
+        "server": "mongodb://localhost:27017"
+    }
+}
