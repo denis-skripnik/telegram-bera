@@ -7,7 +7,7 @@ Different tokens can be sent as rewards: HONEY by default.
 The bot was created for the testnet, but it can also be adapted for the mainnet if desired.
 
 # Install
-0. Нужен node.js и Mongo DB.
+0. Need node.js and Mongo DB.
 1. Open config.json
 Replace the rpc as needed.
 Replace "BOT_API_KEY" with your bot's API key (get it from $[BotFather](https://t.me/BotFather)).
